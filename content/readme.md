@@ -1,4 +1,4 @@
-# Project Contents
+# Sharing Notebooks on GitHub
 
 ![](notebook.png)
 
