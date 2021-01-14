@@ -1,0 +1,23 @@
+# this file controls the overall navigation displayed in the "Notebook Side Bar"
+# the following 'title:' value will appear directly below the the Top level Side Bar navigation
+- title: Welcome
+  url: readme
+  not_numbered: true
+- title: Search
+  search: true
+  
+- title: Notebook Sharing
+  url: /readme
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Webinar Outline
+    url: webinar_outline
+  - title: SQL Notebook
+    url: sql_notebook
+  - title: PowerShell Notebook
+    url: powershell_notebook
+  - title: Python Notebook 
+    url: python_notebook
+  - title: Wrap Up
+    url: wrap_up
