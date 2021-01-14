@@ -1,4 +1,6 @@
-# Metadata Refresh for SQL Server
+# Project Contents
+
+![](notebook.png)
 
 ## Notebook Contents:
 
